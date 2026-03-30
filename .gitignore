@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+ingest.log
+data/embeddings.json
+data/chunks.json
+data/state.json
